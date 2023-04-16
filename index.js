@@ -8,7 +8,6 @@ import morgan from 'morgan'
 import passport from 'passport'
 import session from 'express-session'
 //import exphbs from 'express-handlebars'
-import mongoose from 'mongoose'
 import mongoStore from 'connect-mongo';
 //let mongoStore = connectMongo.default;
 
